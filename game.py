@@ -1,4 +1,4 @@
-# Waddill Platt kqr2pp and Benjamin Cassett rcx7vy
+# Benjamin Cassatt rcx7vy and Waddill Platt kqr2pp
 """
 The general plan for our game is to make a game where the user is controlling a character. The user will attempt
 to collect multiple coins on each level. Once they have collected all the coins they will progress to the next level.
